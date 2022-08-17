@@ -9,3 +9,5 @@ console.log("Tomorrow we will be holding a two-hour meeting on whether the 's' i
 console.log("Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Replacing some meetings with emails");
 
 console.log("New Blog Post: How GMail scaled to trillions of unread emails.");
+
+console.log("SELECT * FROM STACK_OVERFLOW");
